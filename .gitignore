@@ -1,0 +1,12 @@
+# Vscode stuff
+.vscode/
+
+# Python stuff
+__pycache__/
+
+# Data
+input/
+output/
+
+# Figures
+*.pdf
