@@ -13,6 +13,7 @@ output/
 
 # Ros stuff
 *.bag
+.catkin_tools/
 build/
 devel/
 install/
