@@ -1,0 +1,4 @@
+ego_localization
+/catkin_ws/devel/.private/ego_localization/lib/pkgconfig/ego_localization.pc /catkin_ws/devel/lib/pkgconfig/ego_localization.pc
+/catkin_ws/devel/.private/ego_localization/share/ego_localization/cmake/ego_localizationConfig.cmake /catkin_ws/devel/share/ego_localization/cmake/ego_localizationConfig.cmake
+/catkin_ws/devel/.private/ego_localization/share/ego_localization/cmake/ego_localizationConfig-version.cmake /catkin_ws/devel/share/ego_localization/cmake/ego_localizationConfig-version.cmake

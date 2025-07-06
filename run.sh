@@ -27,10 +27,10 @@ if docker run \
         --device /dev/dri:/dev/dri \
         -v $CURRENT_DIR/data/:/data:ro \
         -v $CURRENT_DIR/data/output:/data/output:rw \
-        -v $CURRENT_DIR/$WORKSPACE:/$WORKSPACE/ \
+        -v $CURRENT_DIR/catkin_ws:/catkin_ws/ \
         -u $USER_ID:$GROUP_ID \
         -e DISPLAY=$DISPLAY \
-	-e TERM=xterm-256color \
+	    -e TERM=xterm-256color \
         --rm \
         -it \
         $DOCKER_IMAGE_NAME \

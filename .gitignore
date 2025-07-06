@@ -10,3 +10,10 @@ output/
 
 # Figures
 *.pdf
+
+# Ros stuff
+*.bag
+build/
+devel/
+install/
+logs/
